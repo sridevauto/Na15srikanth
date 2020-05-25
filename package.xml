@@ -3,7 +3,7 @@
     <version>48.0</version>
     <types>
         <members>Account.Customer_Id__c</members>
-        <members>Case.Customer_Email__c</members>
+        <members>Account.Mobile__c</members>
         <name>CustomField</name>
     </types>
     <types>
