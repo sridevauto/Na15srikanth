@@ -15,4 +15,9 @@
         <members>new_PS_group</members>
         <name>PermissionSetGroup</name>
     </types>
+    <types>
+        <members>Admin</members>
+        <members>Standard</members>
+        <name>Profile</name>
+    </types>
 </Package>
