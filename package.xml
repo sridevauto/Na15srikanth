@@ -7,6 +7,10 @@
         <name>CustomField</name>
     </types>
     <types>
+        <members>account_process</members>
+        <name>Flow</name>
+    </types>
+    <types>
         <members>my_new_permission_set</members>
         <members>test_permission</members>
         <name>PermissionSet</name>
